@@ -1,5 +1,5 @@
-﻿import java.io.*;
-import java.net.*;
+import java.net.* ;
+import java.io.* ;
 import java.util.Scanner;
 
 public class Client1 {
@@ -114,3 +114,4 @@ public class Client1 {
 		
 	}
 }
+
